@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-//Based on Number
+///Based on Number
 int main()
 {
     int i;
